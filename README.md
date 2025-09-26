@@ -8,6 +8,8 @@ Baseline: ```step 2000: train loss 1.7603, val loss 1.9151```
 
 Symmetry: ```step 2000: train loss 1.6470, val loss 1.8288```
 
+<img width="640" height="480" alt="symmetry_plot" src="https://github.com/user-attachments/assets/20bde4e7-b194-4625-94ec-9a45d80b3dd0" />
+
 <img width="640" height="480" alt="symmetry_plot" src="https://github.com/user-attachments/assets/53081bde-0507-46db-a3fb-580f13c956f3" />
 
 ## Usage
