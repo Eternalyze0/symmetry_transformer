@@ -1,6 +1,6 @@
 # Symmetry Transformer
 
-Instead of only predicting the next token also predict the current and previous tokens using separate heads, the notion being learning to predict a part of data input x from any other part of x is beneficial to learning.
+Instead of only predicting the next token also predict the current and previous tokens using separate heads, the notion being learning to predict a part of data input x from any other part of x is beneficial to learning. Related paper: https://arxiv.org/abs/2404.19737.
 
 ## Results
 
